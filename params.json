@@ -1,0 +1,6 @@
+{
+  "name": "-cabecera-estilo-css",
+  "tagline": "",
+  "body": "<!doctype html>\r\n<html>\r\n<head>\r\n<meta charset=\"utf-8\">\r\n<title>Herencia</title>\r\n</head>\r\n<!--Comment \"El orden de cada en que está el estilo, indica la propiedad de cada uno\"-->\r\n<style>\r\nh1.cabe {\r\n    border: 5px;\r\n\tcolor: red;\r\n\ttext-align: center;\r\n\tborder-color: #093;\r\n\tborder-style: dashed;\r\n\tmargin: auto;\r\n\twidth: 50%;\r\n\tpadding: 10px;\r\n}\r\n</style>\r\n<body>\r\n<div id=\"caja\">\r\n<h1 class=\"cabe\">Cabecera: header</h1>\r\n</header>\r\n</div>\r\n</body>\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
